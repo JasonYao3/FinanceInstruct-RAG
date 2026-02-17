@@ -20,7 +20,7 @@ graph LR
     C --> E[Ensemble Fusion]
     D --> E
     E --> F[Parent Doc Fetch]
-    F --> G[LLM (Groq LLaMA)]
+    F --> G[LLM - Groq LLaMA]
     G --> H[Answer]
 ```
 
