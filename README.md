@@ -2,6 +2,10 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system for financial question answering, built with LangChain, ChromaDB, and Groq LLaMA.
 
+## 🎥 Demo
+
+![App Demo](demo_video.mov)
+
 ## Features
 
 - **Hybrid Search**: Combines semantic embeddings (ChromaDB) with keyword-based search (BM25) for optimal retrieval
