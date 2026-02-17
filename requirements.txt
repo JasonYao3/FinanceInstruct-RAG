@@ -1,16 +1,16 @@
-# Core RAG dependencies
-langchain
-langchain-community
-langchain-huggingface
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-core==0.3.19
+langchain-text-splitters==0.3.2
+langchain-groq==0.2.1
+langchain-huggingface==0.1.2
 chromadb
 sentence-transformers
-
-# Data handling
-datasets
-pandas
-
-# Interface
 streamlit
-
-# Utilities
+datasets
 python-dotenv
+fastapi
+uvicorn
+requests
+tqdm
+rank_bm25
