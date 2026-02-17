@@ -4,7 +4,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system for financial que
 
 ## 🎥 Demo
 
-<video src="https://github.com/JasonYao3/FinanceInstruct-RAG/raw/main/demo_video.mov" controls width="100%" style="max-width: 800px;"></video>
+![App Demo](demo_video.gif)
 
 ## Features
 
