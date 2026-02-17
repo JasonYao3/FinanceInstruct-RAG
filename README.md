@@ -2,13 +2,9 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system for financial question answering, built with LangChain, ChromaDB, and Groq LLaMA.
 
-## 🎥 Demo
-<<<<<<< HEAD
-
-![App Demo](demo_video.gif)
-=======
-/Users/jasonyao/Documents/project/Finance-Instruct-rag/demo_video.mov
->>>>>>> fd6d8cfdf5691a40e0f88f9acb29051dd6d2dea1
+<p align="center">
+  <img src="demo_video.gif" width="600" alt="App Demo">
+</p>
 
 ## Features
 
